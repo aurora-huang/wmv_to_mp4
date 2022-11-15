@@ -1,4 +1,5 @@
 # wmv_to_mp4
+
 ::【指令說明】  
 :: ffmpeg 啟用 FFmpeg（即「ffmpeg.exe」） 
 :: -i   = 輸入檔案，後面接你要轉的檔案  
