@@ -1,6 +1,8 @@
 # wmv_to_mp4
 情境: 上課錄影軟體Evercam，因錄影時間長檔案太大只能轉成WMV檔，使用一般轉檔軟體需要耗費很長的時間還有可能失敗。因此透過ffmpeg轉換影片格式，使用者將影片拖曳到BAT檔轉換格式，並大幅度縮短轉檔時間。
 
+到[FFmpeg網站](https://ffmpeg.org/)下載ffmpeg.exe 
+
 【指令說明】  
 ffmpeg 啟用 FFmpeg（即「ffmpeg.exe」） 
 -i   = 輸入檔案，後面接你要轉的檔案  
