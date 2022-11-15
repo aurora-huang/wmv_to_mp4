@@ -1,5 +1,5 @@
 # wmv_to_mp4
-::【指令說明】 
+::【指令說明】  
 :: ffmpeg 啟用 FFmpeg（即「ffmpeg.exe」） 
 :: -i   = 輸入檔案，後面接你要轉的檔案  
 :: -c:v = 指定影片編碼器  
@@ -14,7 +14,7 @@
 :: s = subtilte(字幕)  
 
 ::【FFmpeg基本格式】 
-:: ffmpeg -i [輸入影片] -c:v [影片編碼器] [影片參數] -c:a [音訊編碼器] [音訊參數]  [輸出檔案]  
+:: ffmpeg -i [輸入影片] -c:v [影片編碼器] [影片參數] -c:a [音訊編碼器] [音訊參數] [輸出檔案]  
 :: ffmpeg -i input.MOV -c:v libx264 -c:a aac output.mp4  
 
 :: -r   設定fps  
